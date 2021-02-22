@@ -1,2 +1,2 @@
-- Botlist.space: <https://vote.haileybot.com/botlist>
-- Top.gg: <https://vote.haileybot.com/topgg>
+- [Botlist.space](https://vote.haileybot.com/botlist)
+- [Top.gg](https://vote.haileybot.com/topgg)
